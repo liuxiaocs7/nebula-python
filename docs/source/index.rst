@@ -6,6 +6,8 @@
 Welcome to nebula-python-doc's documentation!
 =============================================
 
+This is a simple test for CI.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
